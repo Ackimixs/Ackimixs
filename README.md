@@ -4,6 +4,7 @@ i'm the CEO of Acorp a foundation create in 2029
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackimixs&show_icons=true&theme=github_dark&count_private=true)](https://www.ackimixs.xyz)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ackimixs&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
  
