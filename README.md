@@ -6,7 +6,7 @@ i'm the CEO of Acorp a foundation create in 2029
 
  | Language | Software |
 | ----------- | ----------- |
-| ![Header](https://img.shields.io/badge/Nuxt3-green&logo=nustjs&logoColor=00DC82) | Title |
+| ![Header](https://img.shields.io/badge/Nuxt3-green&style=for-the-badge&logo=nustjs&logoColor=00DC82) | Title |
 | Paragraph | Text |
 
 ---
