@@ -5,7 +5,7 @@ i'm the CEO of Acorp a foundation create in 2029
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackimixs&show_icons=true&theme=github_dark&count_private=true)](https://www.ackimixs.xyz)
 
 
-	---
+---
  
  ### [Wakatime](https://wakatime.com/) stat
 
@@ -92,3 +92,6 @@ Java                     2 repos             ██░░░░░░░░░�
 
  Last Updated on 15/12/2022 15:05:00 UTC
 <!--END_SECTION:waka-->
+
+> **Note**
+> Stats dosn't indicate my skill or level in any language or tools
