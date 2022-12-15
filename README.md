@@ -6,6 +6,9 @@ Actually working on many project but love js / ts and playing with c / c++
 
 My main project is a discord bot / todo-app with nuxt3 / end project of my school ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackimixs)](https://www.ackimixs.xyz)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2058%20mins-blue)
 
