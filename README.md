@@ -2,7 +2,7 @@
 
 i'm the CEO of Acorp a foundation create in 2029  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackimixs&show_icons=true&theme=github_dark)](https://www.ackimixs.xyz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackimixs&show_icons=true&theme=github_dark&count_private=true)](https://www.ackimixs.xyz)
 
 
 <!--START_SECTION:waka-->
