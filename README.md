@@ -26,7 +26,7 @@ i'm the CEO of Acorp a foundation create in 2029
 
 **🐱 My GitHub Data** 
 
-> 🏆 494 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 612.7 kB Used in GitHub's Storage 
  > 
@@ -65,20 +65,16 @@ Sunday       23 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CMake                    2 mins              ████████░░░░░░░░░░░░░░░░░   34.23% 
-C++                      1 min               ███████░░░░░░░░░░░░░░░░░░   30.1% 
-GitIgnore file           1 min               ███████░░░░░░░░░░░░░░░░░░   29.7% 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-qtest                    4 mins              █████████████████░░░░░░░░   70.27% 
-Unknown Project          1 min               ███████░░░░░░░░░░░░░░░░░░   29.73%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -95,7 +91,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 18:40:24 UTC
+ Last Updated on 01/01/2023 18:41:10 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
