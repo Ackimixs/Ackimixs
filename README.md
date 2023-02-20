@@ -20,7 +20,7 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,19 @@ Sunday          24 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             ██████████████████████░░░   89.62 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+IsenBot-MongoDB          17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    17 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -91,7 +94,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2023 18:40:54 UTC
+ Last Updated on 20/02/2023 18:42:06 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
