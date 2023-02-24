@@ -20,7 +20,7 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,7 +92,7 @@ Gnuplot                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:43:52 UTC
+ Last Updated on 24/02/2023 18:43:28 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
