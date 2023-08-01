@@ -20,7 +20,7 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,16 +63,20 @@ Sunday                   111 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 27 mins        ██████████████████████░░░   86.12 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spotify                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +92,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2023 18:39:13 UTC
+ Last Updated on 01/08/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
