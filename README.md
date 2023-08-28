@@ -4,7 +4,7 @@ i'm the CEO of Acorp a foundation create in 2029
 
 ### 🧰 Tools and technologie i'm playing with
 
-(Nuxt3)[https://nuxt.com], (Vue3)[https://vuejs.org/], (Nodejs)[https://nodejs.org], (Bun)[https://bun.sh/], discord.js, typescript, javascript, c++, qt6, python, php
+[Nuxt3](https://nuxt.com), [Vue3](https://vuejs.org/), [Nodejs](https://nodejs.org), [Bun](https://bun.sh/), discord.js, typescript, javascript, c++, qt6, python, php
 
 ---
 
