@@ -25,8 +25,6 @@ i'm the CEO of Acorp a foundation create in 2029
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -94,7 +92,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2024 18:39:21 UTC
+ Last Updated on 12/02/2024 18:39:35 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
