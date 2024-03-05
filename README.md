@@ -17,7 +17,7 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,22 @@ Sunday                   160 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 15 mins        ██████████████████░░░░░░░   72.97 % 
+C                        18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+CMake                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+socket                   1 hr 3 mins         ███████████████░░░░░░░░░░   61.91 % 
+detection_pot            39 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+PleaseHelpMe             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +91,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 18:40:45 UTC
+ Last Updated on 05/03/2024 18:39:09 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
