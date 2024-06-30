@@ -17,7 +17,7 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +94,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 18:41:03 UTC
+ Last Updated on 30/06/2024 18:42:05 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
