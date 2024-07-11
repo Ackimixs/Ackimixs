@@ -17,15 +17,13 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 1,249 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +58,23 @@ Sunday                   186 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 23 mins       ██████████████████░░░░░░░   71.89 % 
+C                        26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+GitIgnore file           25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+C#                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Jetbrainsrider           3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BatteryGame              2 hrs 26 mins       ██████████████████░░░░░░░   73.52 % 
+Unknown Project          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Battery                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Hola                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+ThisOne                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -85,7 +90,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 18:44:31 UTC
+ Last Updated on 11/07/2024 18:43:28 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
