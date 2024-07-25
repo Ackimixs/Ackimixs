@@ -60,18 +60,16 @@ Sunday                   186 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-GitIgnore file           0 secs              ████████████████████░░░░░   80.28 % 
-C++                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ████████████████████░░░░░   80.28 % 
-CropoutSampleProject     0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +85,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:45:07 UTC
+ Last Updated on 25/07/2024 18:41:59 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
