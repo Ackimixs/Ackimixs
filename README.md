@@ -17,13 +17,15 @@ i'm the CEO of Acorp a foundation create in 2029
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,249 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +60,22 @@ Sunday                   186 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 48 mins        █████████████░░░░░░░░░░░░   53.66 % 
+Prisma                   1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+SourceMap                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+api                      2 hrs 22 mins       ██████████████████░░░░░░░   70.55 % 
+Unknown Project          39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+bun-server               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,7 +91,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2024 18:42:29 UTC
+ Last Updated on 11/08/2024 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
