@@ -25,6 +25,8 @@ i'm the CEO of Acorp a foundation create in 2029
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 1,249 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -58,21 +60,16 @@ Sunday                   186 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     2 hrs 20 mins       ██████████████████░░░░░░░   71.58 % 
-JSON                     53 mins             ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 13 mins       █████████████████████████   98.81 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MyMod-1.20.1             3 hrs 11 mins       ████████████████████████░   97.72 % 
-Project Architect 2      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +85,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2024 18:44:26 UTC
+ Last Updated on 29/08/2024 18:45:18 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
