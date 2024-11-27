@@ -1,10 +1,32 @@
 ### Hi there 👋
 
-i'm the CEO of Acorp a foundation create in 2029  
+I'm ackimixs, just an other developer that like creating random things
 
 ### 🧰 Tools and technologie i'm playing with
 
-[Nuxt3](https://nuxt.com), [Vue3](https://vuejs.org/), [Nodejs](https://nodejs.org), [Bun](https://bun.sh/), discord.js, typescript, javascript, c++, qt6, python, php
+#### Programming Language
+
+- CPP
+- C
+- C#
+- Javascript
+- typescript
+- php
+- python
+
+#### Tools
+
+- [ROS2](https://ros.org/)
+- [Unreal Engine](https://www.unrealengine.com)
+- [Unity](https://unity.com/)
+- [Qt](https://www.qt.io/)
+
+##### Web
+- [Nuxt3](https://nuxt.com/)
+- [Vue3](https://vuejs.org/)
+- [Nodejs](https://nodejs.org)
+- [Bun](https://bun.sh/)
+- [Discord.js](https://discord.js.org/)
 
 ---
 
