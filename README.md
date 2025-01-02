@@ -65,18 +65,16 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    39 mins             █████████████████████░░░░   84.09 % 
-Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ros2_ws                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +90,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 18:46:07 UTC
+ Last Updated on 02/01/2025 18:47:46 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
