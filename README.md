@@ -24,7 +24,7 @@ CPP, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,16 +67,19 @@ Sunday                   199 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     16 mins             █████████████████████████   99.38 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+IntroPOO                 10 mins             █████████████████░░░░░░░░   66.17 % 
+untitled                 5 mins              ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +95,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 18:47:08 UTC
+ Last Updated on 15/01/2025 18:46:30 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
