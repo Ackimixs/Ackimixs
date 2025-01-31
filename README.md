@@ -24,7 +24,7 @@ CPP, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C410%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,7 +101,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2025 18:46:20 UTC
+ Last Updated on 31/01/2025 18:46:23 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
