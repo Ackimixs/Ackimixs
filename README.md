@@ -65,18 +65,16 @@ Sunday                   204 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     18 mins             ██████████████░░░░░░░░░░░   56.71 % 
-Markdown                 13 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cc                       32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +90,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:53:13 UTC
+ Last Updated on 21/08/2025 18:51:16 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
