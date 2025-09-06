@@ -32,8 +32,6 @@ C++, C, C#, Javascript, typescript, php, python
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -92,7 +90,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:48:07 UTC
+ Last Updated on 06/09/2025 18:45:45 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
