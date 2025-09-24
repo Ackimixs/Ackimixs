@@ -24,6 +24,8 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -38,6 +40,45 @@ C++, C, C#, Javascript, typescript, php, python
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                903 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌆 Daytime                1288 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌃 Evening                677 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+🌙 Night                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  589 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 714 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Friday                   445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Sunday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -51,7 +92,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 18:50:57 UTC
+ Last Updated on 24/09/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
