@@ -24,7 +24,7 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,16 +67,21 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 32 mins        ██████████████████░░░░░░░   70.77 % 
+C                        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+C/C                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+C/C++                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pcb_odo                  2 hrs               ███████████████████████░░   91.96 % 
+NewOdoCLION              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +97,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 18:46:28 UTC
+ Last Updated on 28/09/2025 18:46:18 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
