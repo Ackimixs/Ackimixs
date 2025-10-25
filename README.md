@@ -26,7 +26,7 @@ C++, C, C#, Javascript, typescript, php, python
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,25 +67,16 @@ Sunday                   201 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-RobotFramework           2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.30 % 
-Robot Feature            1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-textmate                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  5 hrs 25 mins       ████████████████████████░   97.27 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-test_validation          4 hrs 33 mins       ████████████████████░░░░░   81.75 % 
-Unknown Project          47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-TP-ISEN-Ouest-FOSSE-GUICH9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-TP2-20251014             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 25 mins       ████████████████████████░   97.27 % 
-WSL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -101,7 +92,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2025 18:50:37 UTC
+ Last Updated on 25/10/2025 18:48:48 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
