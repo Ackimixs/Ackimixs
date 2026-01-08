@@ -26,7 +26,7 @@ C++, C, C#, Javascript, typescript, php, python
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,20 +67,16 @@ Sunday                   212 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-CMake                    9 mins              ███████████░░░░░░░░░░░░░░   43.19 % 
-Bash                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-C++                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Shell Script             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-modelec-marcel-ROS       21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -96,7 +92,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 18:59:28 UTC
+ Last Updated on 08/01/2026 18:57:09 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
