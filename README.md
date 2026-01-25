@@ -67,18 +67,16 @@ Sunday                   212 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-CMake                    0 secs              ███████████████████████░░   91.09 % 
-Shell Script             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-modelec-marcel-ROS       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -94,7 +92,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2026 18:55:25 UTC
+ Last Updated on 25/01/2026 18:55:18 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
