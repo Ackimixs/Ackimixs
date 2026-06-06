@@ -40,45 +40,6 @@ C++, C, C#, Javascript, typescript, php, python
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1164 commits        ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌆 Daytime                1704 commits        ███████████░░░░░░░░░░░░░░   42.74 % 
-🌃 Evening                622 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-🌙 Night                  497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Tuesday                  744 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Wednesday                764 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 861 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Friday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 322 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Sunday                   204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +53,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 20:29:33 UTC
+ Last Updated on 06/06/2026 19:56:33 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
