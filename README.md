@@ -24,7 +24,7 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C948%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-0%20secs-blue?style=flat)
 
@@ -69,20 +69,21 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      1 hr 14 mins        ████████████████░░░░░░░░░   65.73 % 
-C/C                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Objective-C              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C++                      2 hrs 45 mins       ███████████████████░░░░░░   77.30 % 
+C/C                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Objective-C              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Rider                    1 hr 52 mins        █████████████████████████   100.00 % 
+Rider                    3 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test                     1 hr 52 mins        █████████████████████████   99.48 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+test                     3 hrs 33 mins       █████████████████████████   99.72 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +105,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:12:55 UTC
+ Last Updated on 05/08/2026 20:12:57 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
