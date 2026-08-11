@@ -69,21 +69,19 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      2 hrs 45 mins       ███████████████████░░░░░░   77.30 % 
-C/C                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Objective-C              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C++                      1 hr 31 mins        ███████████████████████░░   90.19 % 
+C/C                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Rider                    3 hrs 34 mins       █████████████████████████   100.00 % 
+Rider                    1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test                     3 hrs 33 mins       █████████████████████████   99.72 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+test                     1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +103,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:35:23 UTC
+ Last Updated on 11/08/2026 19:39:26 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
