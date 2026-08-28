@@ -24,7 +24,7 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-0%20secs-blue?style=flat)
 
@@ -69,16 +69,22 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     55 mins             ████████████████████░░░░░   79.55 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+media-stack              58 mins             █████████████████████░░░░   83.87 % 
+game                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 8 mins         ████████████████████████░   97.72 % 
+Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +106,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 21:01:12 UTC
+ Last Updated on 28/08/2026 02:20:14 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
