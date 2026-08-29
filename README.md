@@ -24,7 +24,7 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C951%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-0%20secs-blue?style=flat)
 
@@ -69,22 +69,24 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     55 mins             ████████████████████░░░░░   79.55 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+YAML                     2 hrs 9 mins        █████████████████████░░░░   85.64 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-media-stack              58 mins             █████████████████████░░░░   83.87 % 
-game                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+media-stack              2 hrs 19 mins       ███████████████████████░░   92.42 % 
+game                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+home                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-WSL                      1 hr 8 mins         ████████████████████████░   97.72 % 
-Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+WSL                      2 hrs 29 mins       █████████████████████████   98.94 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +108,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:20:14 UTC
+ Last Updated on 29/08/2026 01:54:47 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
