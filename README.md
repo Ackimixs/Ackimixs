@@ -24,9 +24,9 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C953%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-0%20secs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -69,22 +69,45 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       33 mins             ███████████████░░░░░░░░░░   58.08 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             36 mins             ████████████████░░░░░░░░░   62.83 % 
+Rider                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+url shortener            57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 56 mins (96.68%)
+
+✍️ 679 lines written by AI, 2 lines written by hand (99.71% AI-written)
+
+🔤 224,035 Input Tokens, 29,885 Output Tokens
+
+💵 $7.84 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 9 AI Prompts
+
+GPT                      679 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.71% of written lines came from AI
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +123,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:09:59 UTC
+ Last Updated on 11/09/2026 21:13:56 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
