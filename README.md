@@ -69,45 +69,22 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       33 mins             ███████████████░░░░░░░░░░   58.08 % 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             36 mins             ████████████████░░░░░░░░░   62.83 % 
-Rider                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-url shortener            57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (96.68%)
-
-✍️ 679 lines written by AI, 2 lines written by hand (99.71% AI-written)
-
-🔤 224,035 Input Tokens, 29,885 Output Tokens
-
-💵 $7.84 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 9 AI Prompts
-
-GPT                      679 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +100,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:41:23 UTC
+ Last Updated on 18/09/2026 21:12:20 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
