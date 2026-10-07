@@ -24,7 +24,7 @@ C++, C, C#, Javascript, typescript, php, python
  ### [Wakatime](https://wakatime.com/) stat
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20mins-blue?style=flat)
 
@@ -69,23 +69,25 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     45 mins             ████████████████████░░░░░   80.66 % 
-Bash                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML                     1 hr 20 mins        ███████████████████░░░░░░   77.29 % 
+Bash                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-auth                     45 mins             ████████████████████░░░░░   81.17 % 
-home                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-url shortener            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-game                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+auth                     59 mins             ██████████████░░░░░░░░░░░   57.73 % 
+game                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+network                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+home                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+url shortener            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-WSL                      54 mins             █████████████████████████   98.12 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+WSL                      1 hr 42 mins        █████████████████████████   98.99 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,7 +109,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:47:48 UTC
+ Last Updated on 07/10/2026 23:18:34 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
