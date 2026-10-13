@@ -69,24 +69,24 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     2 hrs 30 mins       ████████████████░░░░░░░░░   64.47 % 
-YAML                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Text                     2 hrs 30 mins       ██████████████████░░░░░░░   71.68 % 
+YAML                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 31 mins       ████████████████░░░░░░░░░   64.63 % 
-auth                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-game                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-network                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-home                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Unknown Project          2 hrs 30 mins       ██████████████████░░░░░░░   71.67 % 
+game                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+auth                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+network                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+home                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       ████████████████░░░░░░░░░   64.63 % 
-WSL                      1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.37 % 
+Windows                  2 hrs 30 mins       ██████████████████░░░░░░░   71.67 % 
+WSL                      59 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +108,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:24:01 UTC
+ Last Updated on 13/10/2026 00:58:04 UTC
 <!--END_SECTION:waka-->
 
 > **Note**
